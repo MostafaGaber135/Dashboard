@@ -1,0 +1,42 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#163419",
+    "titleBar.activeBackground": "#1F4922",
+    "titleBar.activeForeground": "#F8FCF8"
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "theme"
+  ],
+  "tailwindCSS.experimental.classRegex": [
+    [
+      "twMerge\\(([^)]*)\\)",
+      "[\"'`]([^\"'`]*).*?[\"'`]"
+    ],
+    [
+      "createTheme(?:<\\w+>)?\\s*\\(([^)]*)\\)",
+      "{?\\s?[\\w].*:\\s*?[\"'`]([^\"'`]*).*?,?\\s?}?"
+    ]
+  ],
+  "cSpell.words": [
+    "apexcharts",
+    "appspot",
+    "Ciib",
+    "DGNEMF",
+    "firebaseapp",
+    "firestore",
+    "Gaber",
+    "Mostafa",
+    "rgba",
+    "RQCMK",
+    "Teelb",
+    "Toastify",
+    "Xalu",
+    "xaxis",
+    "yaxis"
+  ]
+}
